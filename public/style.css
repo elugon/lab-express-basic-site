@@ -21,7 +21,7 @@
 }
 
 #welcome-image{
-    background-image: url(/public/img/TonyStarkMontain.jpg);
+    background-image: url(/img/TonyStarkMontain.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
